@@ -6,6 +6,6 @@ The growth mind is it the mind that always practicing and learning and the resul
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 
 ### The below reminds me of how to keep myself in a growth mindset
-1.  Challenges Just keep trying and trying until you do it don’t give up 
-2.  Effort “no pain, no gain”
-3.  Success of others : the growth mindset encourages you to see the success of coworkers as an inspiration.
+               1.  Challenges Just keep trying and trying until you do it don’t give up.
+               2.  Effort “no pain, no gain”.
+               3.  Success of others : the growth mindset encourages you to see the success of coworkers as an inspiration.
