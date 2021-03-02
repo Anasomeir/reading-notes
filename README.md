@@ -10,3 +10,5 @@ A growth mindset believes that one’s fundamental abilities can be developed th
                1.  Challenges Just keep trying and trying until you do it don’t give up.
                2.  Effort “no pain, no gain”.
                3.  Success of others : the growth mindset encourages you to see the success of coworkers as an inspiration.
+
+[GitHub Pages](https://www.atlassian.com/blog/inside-atlassian/growth-mindset/).
